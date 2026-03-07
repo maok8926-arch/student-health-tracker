@@ -4,11 +4,11 @@
 This project supports **Sustainable Development Goal 3: Good Health and Well-being**.
 
 ## Team Members
-- Member 1 – Team Leader (GitHub & Class Diagram)
-- Member 2 – Requirements Analysis & Use Case Diagram
-- Member 3 – Wireframes & UI Design
-- Member 4 – Prototype Screens
-- Member 5 – Feedback & Burndown Chart
+- Member 1 – Mao Kai
+- Member 2 – Liu Yun Yu
+- Member 3 – Huang Yi Xuan
+- Member 4 – Mariam Yousef m Alodah
+- Member 5 – Maha Abdullah Ahmed Alsukhailah
 
 ## Project Description
 The Student Health Tracker is a prototype system designed to help university students monitor their daily health activities such as water intake, sleep hours, and exercise. The system provides reminders and dashboard insights to encourage healthier habits.
